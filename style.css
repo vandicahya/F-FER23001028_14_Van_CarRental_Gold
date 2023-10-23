@@ -1,0 +1,39 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.landing {
+  width: 1440px;
+  height: 3226px;
+}
+
+.container-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1440px;
+  margin: auto;
+}
+
+.container-navbar img {
+  width: 100px;
+  height: 34px;
+  padding-top: 25px;
+  padding-left: 136px;
+}
+
+.container-menu {
+  display: flex;
+  justify-content: space-evenly;
+  width: 400px;
+  padding-top: 24px;
+  padding-right: 310px;
+}
+
+.container-menu a {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+  font-weight: 400;
+}
